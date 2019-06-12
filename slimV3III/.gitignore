@@ -1,0 +1,8 @@
+storage/*
+vendor/*
+.idea/*
+.env
+/vendor/
+/.settings/
+/.project
+/app.env

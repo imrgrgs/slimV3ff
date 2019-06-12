@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="src"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+	<buildpathentry kind="src" path="app">
+		<attributes>
+			<attribute name="composer" value="source"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="bootstrap">
+		<attributes>
+			<attribute name="composer" value="source"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/composer">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/container-interop/container-interop/src/Interop/Container">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/faapz/pdo/src">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/monolog/monolog/src/Monolog">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/morris/lessql/src">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/nikic/fast-route/src">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/pimple/pimple/src">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/psr/container/src">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/psr/http-message/src">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/psr/log/Psr/Log">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/slim/flash/src">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/slim/slim/Slim">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/slim/twig-view/src">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/swiftmailer/swiftmailer/lib">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/symfony/polyfill-ctype">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/symfony/polyfill-mbstring">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry excluding="Resources/functions/" kind="src" path="vendor/symfony/var-dumper">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/symfony/var-dumper/Resources/functions">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/twig/twig/lib">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/twig/twig/src">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/vlucas/phpdotenv/src">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/voodoophp/voodorm/src">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/wazaari/monolog-mysql/src/MySQLHandler">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+</buildpath>
