@@ -1,1 +1,8 @@
-
+composer.phar
+vendor/*
+.idea/*
+.env
+/vendor/
+/.settings/
+/.project
+/app.env
