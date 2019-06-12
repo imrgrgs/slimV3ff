@@ -1,0 +1,21 @@
+{
+    "name": "voodoophp/voodorm",
+    "type": "library",
+    "description": "VoodOrm is a micro-ORM which functions as both a fluent select query API and a CRUD model class.",
+    "keywords": ["pdo","fluent query","pdo","mysql","sqlite","postgresql","orm"],
+    "homepage": "https://github.com/mardix/VoodOrm",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mardix",
+            "homepage": "http://github.com/mardix",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": { "Voodoo": "src/" }
+    }    
+}
